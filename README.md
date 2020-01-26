@@ -1,4 +1,4 @@
-Your Projects
+Your Project
 ------------
 
 This file is example to make a webpage but you can use too.
